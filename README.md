@@ -1,38 +1,63 @@
-#- 👋 Hi, I’m @Goldenvikingsunset
-- 👀 I’m interested in ...Microsoft Dynamics Business central
-- 🌱 I’m currently learning ...HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...Front end web development
-- 📫 How to reach me ...paul.rennison1983@gmail.com
-- I have been a Consultant for 7 years and am now teaching myself to code.
-  I am starting with front end web development as it is well documented and there are plenty of resources around, and i know no programing languages.
-  My plan is then to look at the back end and combine that with my Azzure studies.
-  
-  Why web development if i am a Business Central consultant ? well it is a web app now it has gone Saas,
-  so i thought knowing more about these areas would improve my all round knowlage and improve my solutions,
-  for Business central. (i'm thinking Azzure logic apps etc) 
+# 👋 Hi, I’m @Goldenvikingsunset
 
+- 👀 I’m deeply interested in **Microsoft Dynamics 365 Business Central** and its ecosystem.  
+- 🌱 I’m currently expanding my knowledge in **Azure**, **Power Platform**, and **Business Central extensibility** (AL programming, APIs, and integrations).  
+- 💞️ I’m looking to collaborate on **Business Central projects**, especially those involving **customizations, integrations, and automation** using tools like **Azure Logic Apps** or **Power Automate**.  
+- 📫 You can reach me at **paul.rennison1983@gmail.com**.
 
+I have been a **Business Central Consultant** for 7 years, and I am now complementing my expertise by learning programming and web technologies. My focus is to gain a deeper understanding of technologies that enhance the capabilities of Business Central in a SaaS-first world.
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paul-rennison-599399a1/)
-<!---
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)
-<br>
-<br>
+---
+
+## Why Programming and Web Development?
+
+Since **Business Central** is now a SaaS application, understanding web development and cloud technologies has become essential for creating innovative and robust solutions. Here's how I'm leveraging my learning:  
+
+1. **Front-End Development**: Understanding the front-end helps me work with **Business Central APIs** and build interfaces that interact seamlessly with BC.  
+2. **Back-End Development**: Learning **server-side technologies** complements my **AL programming** and allows me to create middleware solutions.  
+3. **Azure Integration**: Studying **Azure Logic Apps**, **Azure Functions**, and **other cloud services** helps me design solutions that integrate BC with external systems.  
+4. **Power Platform**: Combining **Power Automate**, **Power BI**, and **Power Apps** with **Business Central** to deliver low-code solutions.  
+
+This holistic approach not only improves my technical skills but also enhances the quality of my Business Central implementations.
+
+---
+
+## Connect with Me
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paul-rennison-599399a1/)
 
 <br>
-<br>
+
+---
 
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Business Central%20-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Azure-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Java%20Script-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/Power%20Platform%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+
+Here are the tools and technologies I work with:
+
+<img align="left" alt="Business Central" src="https://img.shields.io/badge/Business Central-%23316192.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img align="left" alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img align="left" alt="Power Platform" src="https://img.shields.io/badge/Power Platform-%236137B2.svg?&style=for-the-badge&logo=powerbi&logoColor=white" />
+<img align="left" alt="AL Language" src="https://img.shields.io/badge/AL Programming-%232F4052.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img align="left" alt="APIs" src="https://img.shields.io/badge/APIs-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+<img align="left" alt="Logic Apps" src="https://img.shields.io/badge/Azure Logic Apps-%230089D6.svg?&style=for-the-badge&logo=azuredevops&logoColor=white" />
+
 <br>
 <br>
---->
+
+---
+
+## What I’m Currently Working On
+
+- **Customizing Business Central** to meet unique client needs using AL code.  
+- **Creating integrations** with external applications via **APIs** and **Azure Logic Apps**.  
+- Developing **Power Platform solutions** that interact with Business Central for workflow automation.  
+- Exploring advanced features in **SaaS Business Central**, including **cloud integrations**, **sandbox environments**, and **DevOps for AL development**.
+
+---
+
+## Long-Term Goals
+
+- Master **Azure Functions** to create scalable middleware solutions for Business Central.  
+- Build end-to-end solutions integrating **Business Central**, **Power Platform**, and **external systems**.  
+- Develop and share reusable **AL modules/extensions** to help the BC community.  
+- Contribute to open-source projects that enhance the Business Central ecosystem.  
