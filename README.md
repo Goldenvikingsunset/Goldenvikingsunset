@@ -53,6 +53,13 @@ Here are the tools and technologies I work with:
 - Developing **Power Platform solutions** that interact with Business Central for workflow automation.  
 - Exploring advanced features in **SaaS Business Central**, including **cloud integrations**, **sandbox environments**, and **DevOps for AL development**.
 
+## Long-Term Goals
+
+- Master **Azure Functions** to create scalable middleware solutions for Business Central.  
+- Build end-to-end solutions integrating **Business Central**, **Power Platform**, and **external systems**.  
+- Develop and share reusable **AL modules/extensions** to help the BC community.  
+- Contribute to open-source projects that enhance the Business Central ecosystem.
+
 ## 📊 GitHub Statistics
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldenvikingsunset&show_icons=true&theme=transparent)
@@ -63,12 +70,6 @@ Here are the tools and technologies I work with:
 
 ---
 
-## Long-Term Goals
-
-- Master **Azure Functions** to create scalable middleware solutions for Business Central.  
-- Build end-to-end solutions integrating **Business Central**, **Power Platform**, and **external systems**.  
-- Develop and share reusable **AL modules/extensions** to help the BC community.  
-- Contribute to open-source projects that enhance the Business Central ecosystem.
 
 ## 👀 Profile Views
 
