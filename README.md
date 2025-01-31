@@ -11,7 +11,7 @@ I have been a **Business Central Consultant** for 7 years, and I am now compleme
 
 ## Why Programming and Web Development?
 
-Since **Business Central** is now a SaaS application, understanding web development and cloud technologies has become essential for creating innovative and robust solutions. Here's how I'm leveraging my learning:  
+Since **Business Central** is a SaaS application, understanding web development and cloud technologies has become essential for creating innovative and robust solutions. Here's how I'm leveraging my learning:  
 
 1. **Front-End Development**: Understanding the front-end helps me work with **Business Central APIs** and build interfaces that interact seamlessly with BC.  
 2. **Back-End Development**: Learning **server-side technologies** complements my **AL programming** and allows me to create middleware solutions.  
@@ -46,13 +46,6 @@ Here are the tools and technologies I work with:
 
 ---
 
-## What I’m Currently Working On
-
-- **Customizing Business Central** to meet unique client needs using AL code.  
-- **Creating integrations** with external applications via **APIs** and **Azure Logic Apps**.  
-- Developing **Power Platform solutions** that interact with Business Central for workflow automation.  
-- Exploring advanced features in **SaaS Business Central**, including **cloud integrations**, **sandbox environments**, and **DevOps for AL development**.
-
 ## Long-Term Goals
 
 - Master **Azure Functions** to create scalable middleware solutions for Business Central.  
@@ -60,7 +53,7 @@ Here are the tools and technologies I work with:
 - Develop and share reusable **AL modules/extensions** to help the BC community.  
 - Contribute to open-source projects that enhance the Business Central ecosystem.
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldenvikingsunset&show_icons=true&theme=transparent)
 
